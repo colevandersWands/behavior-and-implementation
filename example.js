@@ -88,4 +88,7 @@ console.log('--- expanded code ---')
     };
   };
 
+// have a third step where they recompress in some new way?
+
+
 }
